@@ -1,5 +1,6 @@
 # Change Log
 
+<<<<<<< HEAD
 ## 0.2.39 (May 11, 2020)
 
 * enhancement - Add column selection shortcut. See [#178](https://github.com/kasecato/vscode-intellij-idea-keybindings/pull/178)
@@ -8,6 +9,8 @@
 
 * enhancement - run previous Go test. See [#171](https://github.com/kasecato/vscode-intellij-idea-keybindings/issues/171)
 
+=======
+>>>>>>> parent of e1b4a85... Add run previous Go test #171
 ## 0.2.37 (Nov 9, 2019)
 
 * enhancement - Change Cmd+D from "editor.action.copyLinesDownAction" to new "editor.action.duplicateSelection". See [#157](https://github.com/kasecato/vscode-intellij-idea-keybindings/issues/157)
